@@ -101,6 +101,6 @@ Use the configured Airflow interface to enable and trigger the relevant DAGs. Ru
 
 ## Author
 
-**Dharanesh D. B.**
+**Dharanesh D B**
 
 GitHub: [DHARANESH-007](https://github.com/DHARANESH-007)
