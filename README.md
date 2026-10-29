@@ -11,7 +11,7 @@ This project explores the development of a modern retail data pipeline to ingest
 - **Programming:** Python, SQL
 - **Workflow Orchestration:** Apache Airflow
 - **Data Transformation:** dbt
-- **Data Platform:** Databricks *(integration in progress, if not yet implemented)*
+- **Data Platform:** Databricks
 - **Database:** Neon PostgreSQL
 - **Object Storage:** AWS S3
 - **Containerization:** Docker
